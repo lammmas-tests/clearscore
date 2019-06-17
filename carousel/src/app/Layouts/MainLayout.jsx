@@ -9,15 +9,9 @@ const cn = bemHelper({ block: 'layout' });
 
 const MainLayout = ({ children }) => (
   <div className={cn(null, 'main')}>
-    <nav className={cn('nav')}>
-      ClearScore
-    </nav>
     <main className={cn('content')}>
       {children}
     </main>
-    <footer className={cn('footer')}>
-      Footer
-    </footer>
   </div>
 );
 

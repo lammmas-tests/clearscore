@@ -1,3 +1,9 @@
+# Developer comments
+
+I decided to go for the slideshow option, since the instructions and materials were clearer. However, during the writing of the solution I struggled with CSS-first approach, spending most of my time on the styling. In the end I opted for a non-CSS ring for the score percentage/process. I did not have the time to add tests or make the mobile design. Due to the inability to register an account on the ClearScore website, I did not have a reference for other slides, so I guessed. Due to the lack of Internet access I got delayed as well.
+In short, this is not my proudest nor prettiest work, but what I could do within 3 hours.
+
+
 ![ClearScore](https://github.com/ClearScore/tech-screen/blob/master/assets/clearscore.png)
 
 # Tech-screen
